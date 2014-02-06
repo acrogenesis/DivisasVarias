@@ -21,6 +21,10 @@
 		3A6BAC0718A355E700A36FF7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A6BABE918A355E700A36FF7 /* UIKit.framework */; };
 		3A6BAC0F18A355E700A36FF7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3A6BAC0D18A355E700A36FF7 /* InfoPlist.strings */; };
 		3A6BAC1118A355E700A36FF7 /* DivisasVariasTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A6BAC1018A355E700A36FF7 /* DivisasVariasTests.m */; };
+		3A6BAC1C18A3586100A36FF7 /* billetes-dolar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A6BAC1A18A3586100A36FF7 /* billetes-dolar.jpg */; };
+		3A6BAC1D18A3586100A36FF7 /* Euros.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A6BAC1B18A3586100A36FF7 /* Euros.jpg */; };
+		3A6BAC2018A3586C00A36FF7 /* londres-billetes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A6BAC1E18A3586C00A36FF7 /* londres-billetes.jpg */; };
+		3A6BAC2118A3586C00A36FF7 /* yenes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A6BAC1F18A3586C00A36FF7 /* yenes.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,10 @@
 		3A6BAC0C18A355E700A36FF7 /* DivisasVariasTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DivisasVariasTests-Info.plist"; sourceTree = "<group>"; };
 		3A6BAC0E18A355E700A36FF7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3A6BAC1018A355E700A36FF7 /* DivisasVariasTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DivisasVariasTests.m; sourceTree = "<group>"; };
+		3A6BAC1A18A3586100A36FF7 /* billetes-dolar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "billetes-dolar.jpg"; sourceTree = "<group>"; };
+		3A6BAC1B18A3586100A36FF7 /* Euros.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Euros.jpg; sourceTree = "<group>"; };
+		3A6BAC1E18A3586C00A36FF7 /* londres-billetes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "londres-billetes.jpg"; sourceTree = "<group>"; };
+		3A6BAC1F18A3586C00A36FF7 /* yenes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yenes.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +125,10 @@
 				3A6BABF718A355E700A36FF7 /* Main.storyboard */,
 				3A6BABFA18A355E700A36FF7 /* ViewController.h */,
 				3A6BABFB18A355E700A36FF7 /* ViewController.m */,
+				3A6BAC1A18A3586100A36FF7 /* billetes-dolar.jpg */,
+				3A6BAC1B18A3586100A36FF7 /* Euros.jpg */,
+				3A6BAC1E18A3586C00A36FF7 /* londres-billetes.jpg */,
+				3A6BAC1F18A3586C00A36FF7 /* yenes.jpg */,
 				3A6BABFD18A355E700A36FF7 /* Images.xcassets */,
 				3A6BABEC18A355E700A36FF7 /* Supporting Files */,
 			);
@@ -228,7 +240,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A6BAC1C18A3586100A36FF7 /* billetes-dolar.jpg in Resources */,
+				3A6BAC1D18A3586100A36FF7 /* Euros.jpg in Resources */,
+				3A6BAC2118A3586C00A36FF7 /* yenes.jpg in Resources */,
 				3A6BABFE18A355E700A36FF7 /* Images.xcassets in Resources */,
+				3A6BAC2018A3586C00A36FF7 /* londres-billetes.jpg in Resources */,
 				3A6BABF018A355E700A36FF7 /* InfoPlist.strings in Resources */,
 				3A6BABF918A355E700A36FF7 /* Main.storyboard in Resources */,
 			);
